@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "test"
-AuthUserFile /k18mitamurahinata.github.io/.htpasswd
-require valid-user
